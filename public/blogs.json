@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://png.pngtree.com/thumb_back/fh260/background/20201014/pngtree-abstract-waving-particle-technology-background-abstract-gradient-design-template-for-brochures-image_416117.jpg",
+    "title": "The Enigmatic Chronicles",
+    "author": "Samantha Jameson",
+    "author_img": "/images/author_samantha.jpg",
+    "posted_date": "March 10, 2024",
+    "reading_time": 120,
+    "hashtags": ["#mystery", "#adventure", "#fiction"]
+  },
+  {
+    "id": 2,
+    "cover": "https://www.elegantthemes.com/blog/wp-content/uploads/2023/06/how-to-use-photoshop-ai-ft-img-4-min.jpg",
+    "title": "Echoes of Eternity",
+    "author": "Michael Reynolds",
+    "author_img": "/images/author_michael.jpg",
+    "posted_date": "February 25, 2024",
+    "reading_time": 210,
+    "hashtags": ["#sciencefiction", "#time_travel", "#suspense"]
+  },
+  {
+    "id": 3,
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaNi8GbuDVv7F0RSn3JSyN2cjQ3AywI0SvPA&usqp=CAU",
+    "title": "Whispers in the Dark",
+    "author": "Emily Thompson",
+    "author_img": "/images/author_emily.jpg",
+    "posted_date": "March 5, 2024",
+    "reading_time": 90,
+    "hashtags": ["#horror", "#thriller", "#supernatural"]
+  },
+  {
+    "id": 4,
+    "cover": "https://media.macphun.com/img/uploads/macphun/blog/625/visiting-site-photo-frame.jpg?q=75&w=1710&h=906&resize=cover",
+    "title": "The Lost Kingdom",
+    "author": "David Nguyen",
+    "author_img": "/images/author_david.jpg",
+    "posted_date": "February 18, 2024",
+    "reading_time": 240,
+    "hashtags": ["#fantasy", "#adventure", "#magic"]
+  },
+  {
+    "id": 5,
+    "cover": "/images/book_cover5.jpg",
+    "title": "Beyond the Stars",
+    "author": "Jessica Patel",
+    "author_img": "https://www.creatopy.com/blog/wp-content/uploads/2022/01/facebook-cover-photo-size-1-1024x576.png",
+    "posted_date": "March 1, 2024",
+    "reading_time": 150,
+    "hashtags": ["#space", "#exploration", "#aliens"]
+  }
+]
